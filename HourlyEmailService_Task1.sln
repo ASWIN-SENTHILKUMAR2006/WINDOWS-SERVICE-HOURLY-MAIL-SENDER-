@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HourlyEmailService_Task1", "HourlyEmailService_Task1\HourlyEmailService_Task1.csproj", "{216C3C5E-40D2-470C-8E9A-E1040F2C9289}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{216C3C5E-40D2-470C-8E9A-E1040F2C9289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{216C3C5E-40D2-470C-8E9A-E1040F2C9289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{216C3C5E-40D2-470C-8E9A-E1040F2C9289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{216C3C5E-40D2-470C-8E9A-E1040F2C9289}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29FB2A44-70AE-4CA0-92D2-ABB11E493518}
+	EndGlobalSection
+EndGlobal
